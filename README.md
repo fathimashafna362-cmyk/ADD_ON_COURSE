@@ -27,9 +27,9 @@ Day 4 – Deep Learning & CNN
 - CNN Implementation
 - Brain Image Classification Task
 
-Repository Files
+REPOSITORY FILES
 
-- `Copy_of_DAY_1_SCIENTIFIC_PYTHON.ipynb`
+- `01_Scientific_Python.ipynb
 - `day2_image_processing.ipynb`
 - `AI_WORKSHOP_Day3.ipynb`
 - `day3_machine_learning.ipynb`
@@ -37,7 +37,7 @@ Repository Files
 - `day_4_machine_learning_task_using_DL.ipynb`
 - `day_4_task_using_CNN.ipynb`
 
-## Tools & Technologies
+TOOLS & TECHNOLOGIES
 
 - Python
 - NumPy
@@ -48,16 +48,16 @@ Repository Files
 - TensorFlow / Keras
 - Jupyter Notebook
 
-## Learning Outcomes
+LEARNING OUTCOMES
 
 - Gained practical experience in Machine Learning and Deep Learning.
 - Learned image processing techniques using OpenCV.
 - Built and evaluated machine learning models.
 - Implemented Convolutional Neural Networks (CNN) for image classification.
 
-## Author
+AUTHOR
 
-**Fathima Shafna K S**
+Fathima Shafna K S
 
 B.Tech in Artificial Intelligence and Data Science
 
